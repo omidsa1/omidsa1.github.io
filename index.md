@@ -14,7 +14,7 @@ I am a research assistant at the University of Kurdistan, where I recently recei
 
 
 ## Interests
-* Natural Language, Networks and AI fascinate me the most. I have a routine of reading a paper on these topics each night!
+* Networks, natural language and cognition fascinate me the most. I have a routine of reading a paper on these topics each night!
 * I am an avid hiker. It is something I mainly do for the joy of it; nevertheless, it is quite rewarding.
 * I love books, but audiobooks have surpassed paper books and the Kindle as my favorite medium. 
 
