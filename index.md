@@ -16,7 +16,7 @@ I am a research assistant at the University of Kurdistan, where I recently recei
 ## Interests
 * Networks, natural language and cognition fascinate me the most. I have a routine of reading a paper on these topics each night!
 * I am an avid hiker. It is something I mainly do for the joy of it; nevertheless, it is quite rewarding.
-* I love books, but audiobooks have surpassed paper books and the Kindle as my favorite medium. 
+* I love non-fiction books and talking to people about their favorite books. Two books I really enjoyed reading recently: Radical Markets by Eric A. Posner and Eric Glen Weyl and Superforecasting by Philip E. Tetlock and Dan Gardner.
 
 
 
