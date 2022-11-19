@@ -6,10 +6,10 @@ I am a research assistant at the University of Kurdistan, where I recently recei
 ## Projects
 * Sentiment Polarity Analysis of Rotten Tomatoes Movie Reviews - internship [Slides]()
 * LDPC: Laplacian Density Peaks Clustering (state-of-the-art seed selection and clustering performance) - bachelor's final project [Code]()
-* Capsule Networks: A Review [Slides]() [Document]()
-* Regional Activity of Risk Anticipation: A fMRI Study [Code]() [Slides]()
-* Hadoop Ecosystem: Distributed Computing and Big Data [Slides]() [Document]()
-* * IoT Data Analysis of European Union's MONICA project
+* Capsule Networks: A Review - course project [Slides]() [Document]()
+* Regional Activity of Risk Anticipation: A fMRI Study - Neuromatch Academy [Code]() [Slides]()
+* Hadoop Ecosystem: Distributed Computing and Big Data - course project [Slides]() [Document]()
+* IoT Data Analysis of European Union's MONICA project - University of Kurdistan Internet of Things lab
 
 
 
