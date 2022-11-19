@@ -4,7 +4,7 @@ I am a research assistant at the University of Kurdistan, where I recently recei
 
 
 ## Projects
-* Regional Activity of Risk Anticipation: A fMRI Study - Neuromatch Academy [Code](https://github.com/omidsa1/Regional-Activity-of-Risk-Anticipation) [Slides](https://docs.google.com/presentation/d/1zRrYoo-wC2llhebMpD58NXA_URQ5LrPTi70cfvyBkbQ/edit?usp=sharing)
+* Regional Activity of Risk Anticipation: A fMRI Study - Neuromatch Academy [Code](https://github.com/omidsa1/Regional-Activity-of-Risk-Anticipation)  [Slides](https://docs.google.com/presentation/d/1zRrYoo-wC2llhebMpD58NXA_URQ5LrPTi70cfvyBkbQ/edit?usp=sharing)
 * Sentiment Polarity Analysis of Rotten Tomatoes Movie Reviews - internship [Slides](https://www.researchgate.net/publication/365349500_Sentiment_Analysis_on_Movie_Reviews_An_Overview)
 * LDPC: Laplacian Density Peaks Clustering (state-of-the-art seed selection and clustering performance) - bachelor's final project [Code](https://github.com/omidsa1/Laplacian-Centrality)
 * Capsule Networks: A Review - course project [Document](https://www.researchgate.net/publication/365349464_CAPSULE_NETWORK_A_REVIEW)
