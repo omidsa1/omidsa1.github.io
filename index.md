@@ -1,6 +1,6 @@
 # Hello!
 
-I am a research assistant at the University of Kurdistan, where I recently received my B.Sc. in computer engineering. My research interests include natural language processing, multimodal ML for distributed and complex networks (such as IoT and social networks), and data mining and analytics. 
+I am a research assistant at the University of Kurdistan, where I recently received my B.Sc. in computer engineering. My research interests include Deep Learning, multimodal ML for distributed and complex networks (such as IoT and social networks), text mining and NLP. 
 
 
 ## Projects
